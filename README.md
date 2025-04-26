@@ -49,7 +49,14 @@ OpenAI Codexは、ターミナルで動作する軽量なコーディングエ�
 2. Codexが自動でタスクを実行
 3. 変更をコミット・プッシュ
 
-詳細な手順は[ドキュメント](docs/USAGE.md)をご覧ください。
+詳細な手順は[使用方法ドキュメント](docs/USAGE.md)をご覧ください。
+
+## 📚 ドキュメンテーション
+
+- [ドキュメント概要](docs/README.md)
+- [API ドキュメント](docs/api.md)
+- [アーキテクチャ概要](docs/architecture.md)
+- [設定オプション](docs/configuration.md)
 
 ## ⚠️ 注意事項
 
@@ -59,8 +66,14 @@ OpenAI Codexは、ターミナルで動作する軽量なコーディングエ�
 
 ## 🔗 リソース
 
+- [GitHub Actions ワークフロー一覧](.github/workflows/README.md)
 - [詳細な使用方法](docs/USAGE.md)
-- [OpenAI Codex公式ドキュメント](https://github.com/openai/codex)
+- [ドキュメント概要](docs/README.md)
+- [API ドキュメント](docs/api.md)
+- [アーキテクチャ概要](docs/architecture.md)
+- [設定オプション](docs/configuration.md)
+- [サンプルコード](src/README.md)
+- [OpenAI 公式ドキュメント](https://platform.openai.com/docs)
 - [GitHub Actions ドキュメント](https://docs.github.com/en/actions)
 
 ## 📄 ライセンス
