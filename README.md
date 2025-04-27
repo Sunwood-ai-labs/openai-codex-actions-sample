@@ -1,5 +1,7 @@
 <div align="center">
 
+![Image](https://github.com/user-attachments/assets/301c0690-958e-4800-aaae-25f0ee26f3df)
+
 # 🤖 OpenAI Codex GitHub Actions サンプルリポジトリ
 
 <p align="center">
